@@ -1,3 +1,3 @@
 # schooltemplate
-Model of School website
+Model of School website<br>
 Used Bootstrap also
