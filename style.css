@@ -3,20 +3,24 @@ nav {
 }
 
 .img_edt1 {
-    width: 63.61px;
+    width: 80px;
     height: 40px;
 }
 
 #img_edt2 {
-    width: 700px;
+    width: 70px;
     height: 500px;
 }
 
 .p_edt1 {
     color: white;
     background-color: black;
-    border-radius:14px ;
-    margin-top: 11px;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius:5px ;
+    margin-top: 13px;
+    margin-right: 5px;
+    margin-bottom: 13px;
     font-weight: bolder;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -124,4 +128,9 @@ button:focus {
 #btn_edt1 {
     background-color: gray;
     border-color: gray;
+}
+
+#img_edt3 {
+    width: 300px;
+    height: 100px;
 }
